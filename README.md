@@ -1,3 +1,3 @@
 # Laradex
 Proyecto de practica Laravel
-80% del curso completo
+100% del curso completo
